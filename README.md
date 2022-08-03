@@ -26,8 +26,8 @@ The comma separated columns are as follows:
                   lower-order resonance
   - 1 = stable resonant libration lasting at least 1000 cycles
   - 2 = quasi-stable resonant libration lasting between 750-1000 cycles
-- res-p, integer p for a p:q exterior resonance (e.g., p=3 for pluto)
-- res-q, integer q for a p:q exterior resonance (e.g., q=2 for pluto)
+- res-p, integer p for a p:q exterior resonance (e.g., p=3 for pluto), 0 for particles with stability=0
+- res-q, integer q for a p:q exterior resonance (e.g., q=2 for pluto), 0 for particles with stability=0
 - id, integer, test particle identifier (note, not necessarily unique in file)
 - time, simulation time in years 
 - a, test particle semimajor axis in au 
