@@ -1,7 +1,7 @@
 # TNO-res-maps
 
 This repository contains a representative subset of the mean motion resonance mapping 
-simulation data (data directory) presented in Volk & Malhotra (2022) for 23 observed 
+simulation data (data directory) presented in [Volk & Malhotra (2022)](https://arxiv.org/abs/2208.02248) for 23 observed 
 distant trasneptunian objects (TNOs). Python scripts are also included (plot-scripts 
 directory) to reproduce or modify the resonance map plots (plots directory). 
 
