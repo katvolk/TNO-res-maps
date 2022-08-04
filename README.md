@@ -5,8 +5,8 @@ simulation data (data directory) presented in [Volk & Malhotra (2022)](https://a
 distant trasneptunian objects (TNOs). Python scripts are also included (plot-scripts 
 directory) to reproduce or modify the resonance map plots (plots directory). 
 
-If you use the data in this repository, cite Volk & Malhotra 2022 (NASA ADS link 
-forthcoming)
+If you use the data in this repository, cite Volk & Malhotra 2022 ([NASA ADS link]( 
+https://ui.adsabs.harvard.edu/abs/2022arXiv220802248V/abstract))
 
 Please see the paper for all the relevant details about how the simulation data was 
 produced and how to interpret these Poincare maps.
